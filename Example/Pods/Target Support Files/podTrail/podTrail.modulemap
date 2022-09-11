@@ -1,0 +1,6 @@
+framework module podTrail {
+  umbrella header "podTrail-umbrella.h"
+
+  export *
+  module * { export * }
+}
